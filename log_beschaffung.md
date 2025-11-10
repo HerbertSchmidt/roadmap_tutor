@@ -1,9 +1,9 @@
 ---
 jahrgang: "2"
-fach: "log"
-thema: "beschaffung"
+fach: "LOG"
+thema: "Beschaffung"
 title: "log_beschaffung"
-tags: blog, beschaffung
+tags: blog,Beschaffung
 date: "2025-11-09"
 description: "Beschaffung und Sourcing, Angebotsvergleich"
 ---
